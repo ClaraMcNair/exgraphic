@@ -7,6 +7,7 @@ cir = Circle(pt,100)
 
 print('Hello. Can you read this?')
 
+##hej
 def bePINK():
   for x in range (255):
       if x<254:
