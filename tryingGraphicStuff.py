@@ -6,6 +6,8 @@ pt = Point(250,250)
 cir = Circle(pt,100)
 
 print('Hello. Can you read this?')
+print('new message')
+
 
 ##hej
 def bePINK():
