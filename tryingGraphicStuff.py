@@ -1,4 +1,4 @@
-rom graphics import *
+from graphics import *
 import time
 
 win = GraphWin("cool",500, 500)
@@ -10,6 +10,8 @@ print('new message')
 
 
 ##hej
+##hej igen
+#hej igen igen
 def bePINK():
   for x in range (255):
       if x<254:
