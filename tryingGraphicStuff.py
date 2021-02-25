@@ -1,13 +1,13 @@
-rom graphics import *
+from graphics import *
 import time
 
 win = GraphWin("cool",500, 500)
 pt = Point(250,250)
 cir = Circle(pt,100)
 
-print('Hello. Can you read this?')
-
 ##hej
+##hej igen
+#hej igen igen
 def bePINK():
   for x in range (255):
       if x<254:
