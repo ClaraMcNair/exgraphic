@@ -7,6 +7,7 @@ cir = Circle(pt,100)
 
 print('Hello. Can you read this?')
 print('new message')
+print('last test')
 
 
 ##hej
